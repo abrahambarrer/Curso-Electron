@@ -1,0 +1,28 @@
+{
+  "name": "app-01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de Escritorio multiplataforma en Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahambarrer/Curso-Electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma",
+    "NodeJs"
+  ],
+  "author": "Abraham Barrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahambarrer/Curso-Electron/issues"
+  },
+  "homepage": "https://github.com/abrahambarrer/Curso-Electron#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
