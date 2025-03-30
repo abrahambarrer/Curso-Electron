@@ -1,10 +1,10 @@
 {
-  "name": "app-01-intro",
+  "name": "marcadores",
   "version": "1.0.0",
-  "description": "Aplicacion de Escritorio multiplataforma en Electron.",
+  "description": "Aplicacion para la gestion de marcadores (bookmarks).",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,8 +13,8 @@
   "keywords": [
     "Electron",
     "Escritorio",
-    "Multiplataforma",
-    "NodeJs"
+    "Aplicacion",
+    "Multiplataforma"
   ],
   "author": "Abraham Barrera",
   "license": "ISC",
